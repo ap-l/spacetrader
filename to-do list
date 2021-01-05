@@ -1,7 +1,7 @@
 GUI
 
 WORLD
-create npc factions
+
 SHIP
 basic movement
 customization
@@ -15,7 +15,8 @@ drawn representation of unique planets
 MUSIC
 
 NPC'S
-
+npc factions
+npc ships/structures
 MATERIALS/ITEMS
 
 CREWMATE-CONTROL
