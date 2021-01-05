@@ -1,9 +1,17 @@
 GUI
 
+WORLD
+create npc factions
 SHIP
-
+basic movement
+customization
+abilities added through customization
+complex movement/piloting
+damage, fuel, wear
 SOLAR SYSTEMS
-
+random number and size of objects in system
+unique planet makeup and name
+drawn representation of unique planets
 MUSIC
 
 NPC'S
@@ -11,3 +19,5 @@ NPC'S
 MATERIALS/ITEMS
 
 CREWMATE-CONTROL
+
+LORE
