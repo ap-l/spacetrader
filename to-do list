@@ -3,15 +3,16 @@ GUI
 WORLD
 
 SHIP
-basic movement
+basic movement - done
 customization
 abilities added through customization
 complex movement/piloting
 damage, fuel, wear
 SOLAR SYSTEMS
-random number and size of objects in system
-unique planet makeup and name
-drawn representation of unique planets
+random number and size of objects in system - working
+unique planet makeup and name - in prog
+random planet recources and structures
+drawn representation of unique planets 
 MUSIC
 
 NPC'S
